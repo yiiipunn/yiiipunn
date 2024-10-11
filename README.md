@@ -38,7 +38,6 @@ LIKE'%You%'
 </div><br>
 
 ```
-//input (+)Odd Number 
 import java.util.Scanner;
 
 public class Main {
@@ -57,7 +56,7 @@ public class Main {
                             } else if (k >= (Q / 2) + (Q / 4) - j && k <= (Q / 2) + (Q / 4) + j) {
                                 System.out.print("#");
                             } else {
-                                System.out.print(" ");
+                                System.out.print(".");
                             }
                         } else if (Q % 4 > 2) {
                             if (k >= (Q / 2) - (Q / 4) - j - 1 && k <= (Q / 2) - (Q / 4) + j) {
@@ -65,7 +64,7 @@ public class Main {
                             } else if (k >= (Q / 2) + (Q / 4) - j && k <= (Q / 2) + (Q / 4) + j + 1) {
                                 System.out.print("#");
                             } else {
-                                System.out.print(" ");
+                                System.out.print(".");
                             }
                         }
                     } else if (j == Q / 4) {
@@ -74,13 +73,16 @@ public class Main {
                         if (k >= j - Q / 4 && k < Q - (j - Q / 4)) {
                             System.out.print("#");
                         } else {
-                            System.out.print(" ");
+                            System.out.print(".");
                         }
                     }
                 }
                 System.out.println();
             }
         }
+        scanner.close();
+    }
+}
 ```
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yiiipunn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yiiipunn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <br>
