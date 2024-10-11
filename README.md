@@ -6,8 +6,8 @@
 <div align ="left">
   
 ```
-puts("UX-UI Designs🎨");
-puts("Front-End Development💻");
+puts("UX-UI Designs🎨\n");
+puts("Front-End Development💻\n");
 ```
 </div><br>
 
@@ -17,9 +17,9 @@ puts("Front-End Development💻");
 <h3>Labor of Love💕</h3>
 
 ```
-puts("Playing a guitar 🎸");
-puts("Photography & VDO-graphy📸");
-puts("Baking🥐");
+puts("Playing a guitar 🎸\n");
+puts("Photography & VDO-graphy📸\n");
+puts("Baking🥐\n");
 ```
 
 ```
