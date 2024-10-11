@@ -1,5 +1,20 @@
-#Yah-ho!👋 
+<html>
+<body>
+<h2>Yah-ho👋</h2>
 
-*I'm currently working on front-end development*
+<p>I'm currently working on</p>
 
-<img src="[pic_trulli.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ftratando-de-estudiar-como-gif-school-tryingtostudy-estudiando-gifs--383157880799144802%2F&psig=AOvVaw3aCAupav9pkuqVnLLUmvMY&ust=1728750741006000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjEoMLghokDFQAAAAAdAAAAABAR)" >
+<p>UX-UI Designs🎨</p>
+<p>Front-End Development💻</p>
+</body>
+</html>
+
+
+![alt text](https://tenor.com/view/school-trying-to-study-studying-sleepy-bored-gif-4469262).
+
+> SELECT*
+> FROM World
+> WHERE "Someone"
+> LIKE'%You%'
+>...
+>/> no results! 
