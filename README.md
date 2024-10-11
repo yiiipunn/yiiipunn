@@ -56,7 +56,7 @@ public class Main {
                             } else if (k >= (Q / 2) + (Q / 4) - j && k <= (Q / 2) + (Q / 4) + j) {
                                 System.out.print("#");
                             } else {
-                                System.out.print(".");
+                                System.out.print(" ");
                             }
                         } else if (Q % 4 > 2) {
                             if (k >= (Q / 2) - (Q / 4) - j - 1 && k <= (Q / 2) - (Q / 4) + j) {
@@ -64,7 +64,7 @@ public class Main {
                             } else if (k >= (Q / 2) + (Q / 4) - j && k <= (Q / 2) + (Q / 4) + j + 1) {
                                 System.out.print("#");
                             } else {
-                                System.out.print(".");
+                                System.out.print(" ");
                             }
                         }
                     } else if (j == Q / 4) {
@@ -73,7 +73,7 @@ public class Main {
                         if (k >= j - Q / 4 && k < Q - (j - Q / 4)) {
                             System.out.print("#");
                         } else {
-                            System.out.print(".");
+                            System.out.print(" ");
                         }
                     }
                 }
