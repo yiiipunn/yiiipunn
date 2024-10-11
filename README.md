@@ -21,6 +21,7 @@ puts("Playing a guitar 🎸\n");
 puts("Photography & VDO-graphy📸\n");
 puts("Baking🥐\n");
 ```
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt?si=b01e9e6cae434e7b)
 
 ```
 SELECT* FROM World
