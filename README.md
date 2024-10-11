@@ -1,16 +1,25 @@
-
-<h2>Yah-ho👋</h2>
+<h2>Yah-ho!👋</h2> 
 
 <h3>I'm currently working on</h3>
 
->-**UX-UI Designs🎨**
+>-**UX-UI Designs🎨**<br>
 >-**Front-End Development💻**
 
-![alt text](https://tenor.com/view/school-trying-to-study-studying-sleepy-bored-gif-4469262).
+<img src ="https://i.pinimg.com/originals/f8/94/19/f89419c5bc4357c8686eb7ab380ed61c.gif" alt ="yuichan">
 
-> SELECT*
-> FROM World
-> WHERE "Someone"
-> LIKE'%You%'
->...
->/> no results! 
+SELECT*<br>
+FROM World<br>
+WHERE "Someone"<br>
+LIKE'%You%'<br>
+...<br>
+/> no results!<br>
+
+<style>
+  h2{
+    text-align: center;
+  }
+  h3{
+    text-align: center;
+    
+  }
+</style>
