@@ -7,7 +7,7 @@
 <p>Front-End Development💻</p>
 
 
-![alt text](https://tenor.com/view/school-trying-to-study-studying-sleepy-bored-gif-4469262).
+[alt text](https://tenor.com/view/school-trying-to-study-studying-sleepy-bored-gif-4469262).
 
 > SELECT*
 > FROM World
