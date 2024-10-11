@@ -3,8 +3,8 @@
 
 <h3>I'm currently working on</h3>
 <div align ="left">
-UX-UI Designs🎨<br>
-Front-End Development💻
+<h3>UX-UI Designs🎨</h3><br>
+<h3>Front-End Development💻</h3>
 </div><br>
 <img src ="https://i.pinimg.com/originals/f8/94/19/f89419c5bc4357c8686eb7ab380ed61c.gif" alt ="yuichan">
 </div><br>
