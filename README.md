@@ -1,6 +1,6 @@
 <div align = "center">
   <h1>Yah-ho👋 Welcome Geeks!🤓</h1> 
-  <h4>(_　_)。゜zｚＺ</h4>
+  <h3>(_　_)。゜zｚＺ</h3>
 <h2>情報工学科1年生 !💻</h2>
 <h3>I'm currently working on</h3>
 <div align ="left">
@@ -12,12 +12,8 @@ puts("Front-End Development💻\n");
 </div><br>
 
   <img src ="https://i.pinimg.com/originals/f8/94/19/f89419c5bc4357c8686eb7ab380ed61c.gif" alt ="yuichan"> </div>
-  <div align = "left">
-     ．<{=．．．．      
-  </div>
-       <div align = "right">
-      ．>}=．．．．
-       </div>
+  <div align = "center"> 
+    <h2>‧ ₊˚❀༉‧₊˚. </h2> </div>  
        
  https://github.com/user-attachments/assets/c2dbc9f7-419e-48df-afe3-10a4ffa900c4
   
