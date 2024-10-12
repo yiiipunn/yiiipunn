@@ -12,6 +12,9 @@ puts("Front-End Development💻\n");
 </div><br>
 
   <img src ="https://i.pinimg.com/originals/f8/94/19/f89419c5bc4357c8686eb7ab380ed61c.gif" alt ="yuichan"> </div>
+  
+ https://github.com/user-attachments/assets/c2dbc9f7-419e-48df-afe3-10a4ffa900c4
+  
 </div><br>
 
 <h3>Labor of Love💕</h3>
@@ -21,7 +24,7 @@ puts("Playing a guitar 🎸\n");
 puts("Photography & VDO-graphy📸\n");
 puts("Baking🥐\n");
 ```
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt?si=b01e9e6cae434e7b)
+
 
 
 <h3 align="left">Languages & Tools🕸️</h3>
