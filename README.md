@@ -99,5 +99,4 @@ public class Main {
 ```
 
 
-<div align ="center">
-<img src = "https://i.pinimg.com/originals/be/96/b7/be96b79656564ba92ed76b1077593ad9.gif"></div>
+
