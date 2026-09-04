@@ -98,7 +98,6 @@ public class Main {
 }
 ```
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yiiipunn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yiiipunn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <br>
-[![An image of @yiiipunn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yiiipunn)](https://holopin.io/@yiiipunn)
+
 <div align ="center">
 <img src = "https://i.pinimg.com/originals/be/96/b7/be96b79656564ba92ed76b1077593ad9.gif"></div>
